@@ -68,6 +68,7 @@ body{ font:16px/1.3  system-ui, sans-serif;}
 
 .wrap-2 img{
     width: 100%;
+    height: 100%;
 }
 
 .wrap-2 .heading{
@@ -93,3 +94,9 @@ body{ font:16px/1.3  system-ui, sans-serif;}
 }
 
 
+.wrap-3{
+    background: #213532;
+    padding: 3rem 0;
+    text-align: center;
+    color: #fff;
+}
